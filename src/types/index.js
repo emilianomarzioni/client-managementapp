@@ -1,0 +1,16 @@
+export const GET_MOVIMIENTOS = 'GET_MOVIMIENTOS';
+export const DELETE_MOVIMIENTO = 'DELETE_MOVIMIENTO';
+export const POST_MOVIMIENTO = 'POST_MOVIMIENTO';
+export const PUT_MOVIMIENTO = 'PUT_MOVIMIENTO';
+export const CURRENT_MOVIMIENTO = 'CURRENT_MOVIMIENTO';
+
+export const CLEAR_CURRENT_MOVIMIENTO = 'CLEAR_CURRENT_MOVIMIENTO';
+
+export const GET_TIPOS = 'GET_TIPOS';
+export const POST_TIPO = 'POST_TIPO';
+
+export const LOGIN_OK = 'LOGIN_OK';
+export const LOG_OUT = 'LOG_OUT';
+export const GET_USER = 'GET_USER';
+export const NEW_USER_OK = 'NEW_USER_OK';
+
